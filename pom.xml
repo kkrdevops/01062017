@@ -21,8 +21,8 @@
     </scm>
 	<distributionManagement>
                 <repository>
-			<id>ARTECH</id>
-			<url>http://localhost:8081/nexus/content/repositories/ARTECH/</url>
+			<id>gameoflife</id>
+			<url>http://localhost:8081/nexus/content/repositories/gameoflife/</url>
 		</repository>
                 <snapshotRepository>
         <id>gameoflifeS</id>
